@@ -34,4 +34,5 @@ src="https://img.shields.io/twitter/follow/giridharanrock?logo=twitter&style=for
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GiriRock&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiriRock&hide=TeX&layout=compact)
