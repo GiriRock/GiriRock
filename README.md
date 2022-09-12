@@ -31,3 +31,7 @@ src="https://img.shields.io/twitter/follow/giridharanrock?logo=twitter&style=for
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/GiriRock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/giridharanrock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GiriRock&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiriRock&hide=TeX&layout=compact)
