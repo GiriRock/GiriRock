@@ -9,7 +9,7 @@ Web Developer, Mendix Developer
 * 🧠  I'm learning ReactJS
 
 <a href="https://www.twitter.com/giridharanrock" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/giridharanrock?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/giridharanrock?logo=&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
