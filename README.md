@@ -27,6 +27,7 @@ src="https://img.shields.io/twitter/follow/giridharanrock?logo=&color=0891b2&lab
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.mendix.com/" target="_blank" rel="noreferrer"><img src="https://sprintr.com/apple-touch-icon.png" width="36" height="36" alt="Mendix" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go.svg" width="36" height="36" alt="GoLang" /></a>
 </p>
 
 
