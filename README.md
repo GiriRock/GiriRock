@@ -1,7 +1,7 @@
 Hi 👋 My name is Giri
 =====================
 
-Web Developer, Mendix Developer
+Software Engineer
 -------------------------------
 
 * 🌍  I'm based in India
