@@ -4,7 +4,7 @@ Hi 👋 My name is Giri
 Software Engineer
 -------------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in UAE
 * ✉️  You can contact me at [giridharanrock@gmail.com](mailto:giridharanrock@gmail.com)
 * 🧠  I'm learning ReactJS
 
